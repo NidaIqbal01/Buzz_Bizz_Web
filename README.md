@@ -690,4 +690,4 @@ The use of automated unit testing and structured GitHub collaboration further su
 
 ---
 
-**Developed as a Software Engineering project.**
+**Developed as a Software Construction & Development project.**
